@@ -16,8 +16,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "npx tsc && node dist/server.js",
-    "dev": "ts-node-dev src/server.ts"
+    "dev": "ts-node-dev src/server.ts",
+    "build": "npx tsc",
+    "start": "node src/dist/server.js"
   },
   "devDependencies": {
     "@swc/jest": "^0.2.20",

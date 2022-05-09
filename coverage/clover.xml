@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1652106243266" clover="3.2.0">
-  <project timestamp="1652106243268" name="All files">
+<coverage generated="1652109469484" clover="3.2.0">
+  <project timestamp="1652109469484" name="All files">
     <metrics statements="51" coveredstatements="51" conditionals="9" coveredconditionals="8" methods="2" coveredmethods="2" elements="62" coveredelements="61" complexity="0" loc="51" ncloc="51" packages="1" files="1" classes="1"/>
     <file name="submit-feedback-use-case.ts" path="/home/flavio/Desktop/server/src/use-cases/submit-feedback-use-case.ts">
       <metrics statements="51" coveredstatements="51" conditionals="9" coveredconditionals="8" methods="2" coveredmethods="2"/>
